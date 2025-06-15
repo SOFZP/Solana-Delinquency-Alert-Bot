@@ -4,6 +4,8 @@ This Bash script continuously monitors one or more Solana validators for **delin
 
 It supports both mainnet and testnet, and can be run on a dedicated machine for audible or visible alerting.
 
+![Banner](solana-delinquency-alert-bot.png)
+
 ---
 
 ## ⚙️ Features
@@ -150,3 +152,6 @@ This script is **strictly focused on detecting validator delinquency** using `so
 Use it at your own risk and ensure that your bot token and chat ID are protected.
 
 ---
+
+## Solana Delinquency Alert Bot Usage Example with random validators:
+![Solana Delinquency Alert Bot Usage Example](solana-delinquency-alert-bot-usage-example.png)  
