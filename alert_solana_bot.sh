@@ -1,6 +1,6 @@
 #!/bin/bash
-# Cryptovik "alert_solana_bot.sh" Script
-# github link here
+# Cryptovik Solana-Delinquency-Alert-Bot Script
+# https://github.com/SOFZP/Solana-Delinquency-Alert-Bot
 # Stand with Ukraine!
 # If you want - Donate to script author
 
